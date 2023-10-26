@@ -1,0 +1,11 @@
+const String imagePath = "assets/images";
+const imgbeer = "$imagePath/beer.png";
+const imgbread = "$imagePath/bread.png";
+const imgcherrycheesecake = "$imagePath/cherrycheesecake.png";
+const imgcoconutcocktail = '$imagePath/coconutcocktail.png';
+const imggingerbreadhouse = '$imagePath/gingerbreadhouse.png';
+const imghamburger = '$imagePath/hamburger.png';
+const imglemonade = '$imagePath/lemonade.png';
+const imgmilkshake = '$imagePath/milkshake.png';
+const imgorangejuice = '$imagePath/orangejuice.png';
+const imgsunnysideupeggs = '$imagePath/sunnysideupeggs.png';
